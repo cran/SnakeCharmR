@@ -1,4 +1,4 @@
-b12d10f4a084aea3bcc4b60367be1845 *DESCRIPTION
+42867f6b2c452299ecc233b20e982c58 *DESCRIPTION
 a26e6585de1aa371bff0783639180889 *NAMESPACE
 1215f7f44debc10925b894aaa375ccb0 *NEWS
 0290359dc511dcc22efce310a8437fa5 *R/RcppExports.R
@@ -25,7 +25,7 @@ a0d08e6baa612958eb15f161b5077661 *man/py.get.Rd
 6c7dd0b449374498a650d8e4388bb4aa *man/py.rm.Rd
 69724e5e0844a83bb16fedeb4187e06b *src/Makevars.in
 a021cce6aa5bc9bc4387ae230394074c *src/RcppExports.cpp
-ba1df9b5c1e42df16fd695cde3964a78 *src/python.cpp
+2cf329fa0abe0654a90d0111da42e52f *src/python.cpp
 565f736c6c13f0b85d7a9e4a71b3b9b1 *tests/testthat.R
 73547c11e6b8aac81df6e31b0ca7a4b2 *tests/testthat/test-call.R
 4c4bf9d45dffa350ab2594d6af10fe56 *tests/testthat/test-exec.R

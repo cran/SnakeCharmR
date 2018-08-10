@@ -1,6 +1,9 @@
 #include <Rcpp.h>
 using namespace Rcpp;
 
+// Python C headers may use this but it was deprecated in C++11
+#define register
+
 #include <Python.h>
 #include <string.h>
 #include <bytesobject.h>
